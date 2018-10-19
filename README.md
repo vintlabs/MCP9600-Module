@@ -16,3 +16,5 @@ At this moment (2018-10-17) the Rev A prototypes are in production, so consider 
 Designed using KiCAD 5.0.0
 
 See pdf/ directory for images and PDF of schematic.
+
+See https://github.com/pvint/MCP9600_Pi for C code (tested on a Raspberry Pi Zero W using a type K thermocouple)
