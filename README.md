@@ -9,7 +9,7 @@ There are headers on both sides of the board so that multiple boards can be conn
 
 Additionally, alerts can be programmed, and when plugged directly into a Raspberry Pi GPIO4 will be ALERT1, ALERT2-4 are accessible using optional header J3.
 
-At this moment (2018-10-17) the Rev A prototypes are in production, so consider this untested! You've been warned. 
+At this moment (2018-10-17) the Rev A prototypes are in production, so consider this untested! You've been warned. Also note that as of this date, the gerbers are the Rev A prototype and the design is a bit ahead of that.
 
 Designed using KiCAD 5.0.0
 
