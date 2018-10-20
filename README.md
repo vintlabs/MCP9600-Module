@@ -19,4 +19,5 @@ See pdf/ directory for images and PDF of schematic.
 
 See https://github.com/pvint/MCP9600_Pi for C code (tested on a Raspberry Pi Zero W using a type K thermocouple)
 
+### Here are three boards in action. You can chain up to 8 boards on a single I²C bus. 
 ![MCP9600 Working Boards](https://github.com/pvint/MCP9600-Module/blob/master/pdf/ThermocoupleBoards.jpeg?raw=true)
